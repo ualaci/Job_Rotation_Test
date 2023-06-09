@@ -1,0 +1,1 @@
+alias vscode ='Code.exe -multiInst -nosession'
